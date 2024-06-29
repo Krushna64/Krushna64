@@ -10,15 +10,13 @@ Passionate Software Developer with 2 years of experience in Python, Django, and 
 ---
 
 ### Connect with me
-
 <p align="center">
   <a href="https://www.github.com/Krushna64" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
   <a href="https://www.linkedin.com/in/krushnavarma64/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ---
 
-### Languages and Tools:
-
+### Languages and Tools
 <p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
@@ -48,7 +46,6 @@ Passionate Software Developer with 2 years of experience in Python, Django, and 
 ---
 
 ### GitHub Stats
-
 <p align="center">
   <a href="https://github.com/Krushna64"><img src="https://github-readme-stats-beta-wheat.vercel.app/api?username=Krushna64&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true" alt="Krushna64's GitHub stats" /></a>
   <a href="https://github.com/Krushna64" align="left"><img src="https://github-readme-stats-beta-wheat.vercel.app/api/top-langs/?username=Krushna64&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true&locale=en&custom_title=Top%20%Languages&size_weight=0.5&count_weight=0.5&layout=compact" alt="Top Languages" /></a>
@@ -58,7 +55,6 @@ Passionate Software Developer with 2 years of experience in Python, Django, and 
 ---
 
 ### Badges
-
 <p align="center">
   <a href="https://github.com/Krushna64/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Krushna64&theme=onestar&no-bg=true" alt="Krushna64" /></a>
 </p>
@@ -66,7 +62,6 @@ Passionate Software Developer with 2 years of experience in Python, Django, and 
 ---
 
 ### Visitors
-
 ![Visitor Count](https://profile-counter.glitch.me/Krushna64/count.svg)
 
 </div>
