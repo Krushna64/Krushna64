@@ -1,9 +1,6 @@
 <div align="center">
 
-Hi! 👋 I'm Krushna Varma. You can call me "KV".
-=====================================================================================================================================
-
-### Software Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=10&center=true&vCenter=true&random=false&width=1000&height=90&lines=Hi!+%F0%9F%91%8B+I'm+Krushna+Varma.;You+can+call+me+%22KV%22.;I'm+a+Software+Developer.;I'm+from+Mumbai%2C+Maharashtra%2C+India.)](https://git.io/typing-svg)
 
 Passionate Software Developer with 2 years of experience in Python, Django, and Django Rest Framework. Skilled in PostgreSQL, MySQL, and various AWS services (RDS, EC2, S3, Cognito, API Gateway, SQS, Lambda). Actively seeking opportunities in backend, cloud-based architecture, and full stack development, AI/ML role. Proficient in Celery, HTML, CSS, Bootstrap, and Vue.js 3. Eager to contribute to innovative projects and collaborate with talented teams to deliver high-quality software solutions.
 
