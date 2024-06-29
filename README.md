@@ -55,7 +55,7 @@ Passionate Software Developer with 2 years of experience in Python, Django, and 
 ### Badges
 
 <p align="left">
-  <a href="https://github.com/Krushna64/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Krushna64" alt="Krushna64" /></a>
+  <a href="https://github.com/Krushna64/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Krushna64&theme=onestar&no-bg=true" alt="Krushna64" /></a>
 </p>
 
 
