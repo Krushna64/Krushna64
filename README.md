@@ -61,4 +61,9 @@ Passionate Software Developer with 2 years of experience in Python, Django, and 
 ### Visitors
 ![Visitor Count](https://profile-counter.glitch.me/Krushna64/count.svg)
 
+---
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
+
 </div>
