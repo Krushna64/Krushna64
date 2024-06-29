@@ -44,7 +44,7 @@ Passionate Software Developer with 2 years of experience in Python, Django, and 
 
 ### GitHub Stats
 <p align="center">
-  <a href="https://github.com/Krushna64"><img src="https://github-readme-stats-beta-wheat.vercel.app/api?username=Krushna64&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true" alt="Krushna64's GitHub stats" /></a>
+  <a href="https://github.com/Krushna64"><img src="https://github-readme-stats-beta-wheat.vercel.app/api?username=Krushna64&show_icons=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true" alt="Krushna64's GitHub stats" /></a>
   <a href="https://github.com/Krushna64" align="left"><img src="https://github-readme-stats-beta-wheat.vercel.app/api/top-langs/?username=Krushna64&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true&locale=en&custom_title=Top%20%Languages&size_weight=0.5&count_weight=0.5&layout=compact" alt="Top Languages" /></a>
   <a href="https://github.com/Krushna64"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Krushna64&stroke=ffffff&background=00000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
