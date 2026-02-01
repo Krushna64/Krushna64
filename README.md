@@ -50,4 +50,9 @@ Passionate Software Developer with 3.5+ years of experience in Python, Django, a
   <a href="https://github.com/Krushna64"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Krushna64&stroke=ffffff&background=00000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
+---
+
+<a href="#"><img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg"></a>
+<a href="https://github.com/Krushna64/Krushna64" target="_blank"><img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg"></a>
+
 </div>
