@@ -49,6 +49,4 @@ Passionate Software Developer with 3.5+ years of experience in Python, Django, a
   <a href="https://github.com/Krushna64" align="left"><img src="https://github-readme-stats-beta-wheat.vercel.app/api/top-langs/?username=Krushna64&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true&locale=en&custom_title=Top%20Languages&size_weight=0.5&count_weight=0.5&layout=compact" alt="Top Languages" /></a>
 </p>
 
----
-
 </div>
