@@ -47,15 +47,8 @@ Passionate Software Developer with 3.5+ years of experience in Python, Django, a
 <p align="center">
   <a href="https://github.com/Krushna64"><img src="https://github-readme-stats-beta-wheat.vercel.app/api?username=Krushna64&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true" alt="Krushna64's GitHub stats" /></a>
   <a href="https://github.com/Krushna64" align="left"><img src="https://github-readme-stats-beta-wheat.vercel.app/api/top-langs/?username=Krushna64&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true&locale=en&custom_title=Top%20Languages&size_weight=0.5&count_weight=0.5&layout=compact" alt="Top Languages" /></a>
-  <a href="https://github.com/Krushna64"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Krushna64&stroke=ffffff&background=00000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
 ---
-
-### Badges
-<p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Krushna64)](https://github.com/Krushna64/github-profile-trophy)
-  <a href="https://github.com/Krushna64/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Krushna64&theme=onestar&no-bg=true" alt="Krushna64" /></a>
-</p>
 
 </div>
