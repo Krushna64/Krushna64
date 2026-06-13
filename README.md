@@ -37,7 +37,7 @@ Passionate Software Developer with 3.8+ years of experience in Python, Django, a
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36" /></a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="36" height="36" /></a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://emojis.slackmojis.com/emojis/images/1643514665/6684/jira-new.png?1643514665" alt="jira" width="36" height="36" /></a>
-  <a href="https://slack.com/intl/en-in" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/1024px-Slack_icon_2019.svg.png" alt="slack" width="36" height="36" /></a>
+  <a href="https://slack.com/intl/en-in" target="_blank" rel="noreferrer"><img src="https://www.flaticon.com/free-icon/slack_3800024?term=slack&page=1&position=1&origin=search&related_id=3800024" alt="slack" width="36" height="36" /></a>
   <a href="https://razorpay.com/" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/profile_images/1271385506505347074/QIc_CCEg_400x400.jpg" alt="razorpay" width="36" height="36" /></a>
 </p>
 
