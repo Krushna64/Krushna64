@@ -38,7 +38,7 @@ Python Developer with 6+ years of professional experience, including 4+ years sp
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="36" height="36" /></a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://emojis.slackmojis.com/emojis/images/1643514665/6684/jira-new.png?1643514665" alt="jira" width="36" height="36" /></a>
   <a href="https://slack.com/intl/en-in" target="_blank" rel="noreferrer"><img src="https://thesvg.org/icons/slack/default.svg" alt="slack" width="36" height="36" /></a>
-  <a href="https://razorpay.com/" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/profile_images/1271385506505347074/QIc_CCEg_400x400.jpg" alt="razorpay" width="36" height="36" /></a>
+  <a href="https://razorpay.com/" target="_blank" rel="noreferrer"><img src="https://thesvg.org/icons/razorpay/default.svg" alt="razorpay" width="36" height="36" /></a>
 </p>
 
 ---
